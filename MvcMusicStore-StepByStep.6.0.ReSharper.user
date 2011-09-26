@@ -1,0 +1,46 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:StoreController.cs" caret="283" fromTop="7" />
+      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:HomeController.cs" caret="287" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:StoreController.cs" caret="674" fromTop="25" />
+      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:StoreController.cs" caret="607" fromTop="20" />
+      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:HomeController.cs" caret="283" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="63" />
+      <Item value="string" priority="159" />
+      <Item value="return" priority="63" />
+      <Item value="genre" priority="31" />
+      <Item value="message" priority="63" />
+      <Item value="int" priority="31" />
+      <Item value="id" priority="31" />
+      <Item value="ActionResult`0" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpUtility">
+      <Item value="HtmlEncode`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

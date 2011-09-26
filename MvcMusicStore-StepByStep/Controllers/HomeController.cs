@@ -11,9 +11,9 @@ namespace MvcMusicStore_StepByStep.Controllers
         //
         // GET: /Home/
 
-        public string Index()
+        public ActionResult Index()
         {
-            return "Hello from home.";
+            return View();
         }
 
     }

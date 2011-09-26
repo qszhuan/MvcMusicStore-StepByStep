@@ -1,7 +1,0 @@
-F:\ZhuanQs\C#\MvcMusicStore-StepByStep\MvcMusicStore-StepByStep\bin\MvcMusicStore-StepByStep.dll
-F:\ZhuanQs\C#\MvcMusicStore-StepByStep\MvcMusicStore-StepByStep\bin\MvcMusicStore-StepByStep.pdb
-F:\ZhuanQs\C#\MvcMusicStore-StepByStep\MvcMusicStore-StepByStep\bin\EntityFramework.dll
-F:\ZhuanQs\C#\MvcMusicStore-StepByStep\MvcMusicStore-StepByStep\bin\EntityFramework.xml
-F:\ZhuanQs\C#\MvcMusicStore-StepByStep\MvcMusicStore-StepByStep\obj\Debug\ResolveAssemblyReference.cache
-F:\ZhuanQs\C#\MvcMusicStore-StepByStep\MvcMusicStore-StepByStep\obj\Debug\MvcMusicStore-StepByStep.dll
-F:\ZhuanQs\C#\MvcMusicStore-StepByStep\MvcMusicStore-StepByStep\obj\Debug\MvcMusicStore-StepByStep.pdb
