@@ -16,9 +16,10 @@ namespace MvcMusicStore_StepByStep.Controllers
             return "Hello from store.Index()";
         }
 
-        public string Browse()
+        public string Browse(string genre)
         {
-            return "Hello from store.Browse()";
+            var message = HttpUtility.HtmlEncode("Store.Browse, Genre= " + genre);
+            return message;
         }
 
         public string Details()
