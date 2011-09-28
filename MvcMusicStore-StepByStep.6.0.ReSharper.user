@@ -1,14 +1,7 @@
 <Configuration>
   <RecentFiles>
-    <RecentFiles>
-      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:StoreController.cs" caret="283" fromTop="7" />
-      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:HomeController.cs" caret="287" fromTop="13" />
-    </RecentFiles>
-    <RecentEdits>
-      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:StoreController.cs" caret="674" fromTop="25" />
-      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:StoreController.cs" caret="607" fromTop="20" />
-      <File id="DB473362-3977-4F4C-BE8A-BE8D4147EF7A/d:Controllers/f:HomeController.cs" caret="283" fromTop="13" />
-    </RecentEdits>
+    <RecentFiles />
+    <RecentEdits />
   </RecentFiles>
   <CompletionStatisticsManager>
     <ItemStatistics item="CSharpCodeCompletionContext">

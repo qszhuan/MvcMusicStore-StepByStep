@@ -1,0 +1,22 @@
+﻿@model IEnumerable<MvcMusicStore_StepByStep.Models.Genre>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>Browse Genres</h3>
+
+<p>
+	select from @Model.Count() genres:
+</p>
+<ul>
+	@foreach (var item in Model) {
+		<li><a href="/Store/Browse?genre=@item.Name"> @item.Name</a> </li>
+		<li> @Html.ActionLink(@item.Name, "Browse", new {genre = item.Name})</li>
+	}
+
+	@Html.ActionLink("Go to Store Index page", "Index")
+</ul>
+
+
+

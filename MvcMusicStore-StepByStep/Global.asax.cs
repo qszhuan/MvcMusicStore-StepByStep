@@ -23,9 +23,15 @@ namespace MvcMusicStore_StepByStep
 
             routes.MapRoute(
                 "Default", // Route name
-                "{controller}/{action}/{id}", // URL with parameters
-                new { controller = "Home", action = "Index", id = UrlParameter.Optional } // Parameter defaults
+                "{controller}/{action}/{genre}", // URL with parameters
+                new { controller = "Home", action = "Index", genre = UrlParameter.Optional } // Parameter defaults
             );
+
+//            routes.MapRoute(
+//                "Browse genre", // Route name
+//                "{controller}/{action}/{id}", // URL with parameters
+//                new { controller = "Store", action = "Browse", id = UrlParameter.Optional } // Parameter defaults
+//            );
 
         }
 
